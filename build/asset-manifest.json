@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3207586a.css",
+    "main.js": "/static/js/main.a6e78656.js",
+    "static/media/Снимок экрана 2022-06-05 в 00.43.50.png": "/static/media/Снимок экрана 2022-06-05 в 00.43.50.07734bb85d4f35a90e68.png",
+    "index.html": "/index.html",
+    "main.3207586a.css.map": "/static/css/main.3207586a.css.map",
+    "main.a6e78656.js.map": "/static/js/main.a6e78656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3207586a.css",
+    "static/js/main.a6e78656.js"
+  ]
+}
